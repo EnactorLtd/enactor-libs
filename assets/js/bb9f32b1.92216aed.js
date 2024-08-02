@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkenactor_libs=self.webpackChunkenactor_libs||[]).push([[502],{5788:a=>{a.exports=JSON.parse('{"allTagsPath":"/enactor-libs/blog/tags","slug":"/enactor-libs/blog/tags/facebook","name":"facebook","count":1,"permalink":"/enactor-libs/blog/tags/facebook"}')}}]);
